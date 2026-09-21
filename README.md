@@ -2,6 +2,8 @@
 
 A modern, responsive website for TechFlow Solutions - a web development company specializing in custom websites for small businesses.
 
+[![Deploy to GitHub Pages](https://github.com/NoodelSoop8041/COMPSVII-2/actions/workflows/deploy.yml/badge.svg)](https://github.com/NoodelSoop8041/COMPSVII-2/actions/workflows/deploy.yml)
+
 ## Project Structure
 
 ```
